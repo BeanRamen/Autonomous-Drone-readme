@@ -2,6 +2,9 @@
 
 https://github.com/user-attachments/assets/6f92c1f7-2816-493a-8ad7-a00f3f75cce8
 
+GOOGLE DRIVE: https://drive.google.com/drive/folders/1qEcol1IooAU8RIS1F2abyJBgg_KhXEz4?usp=drive_link
+
+
 Pentru a rula aplicația trebuie instalate următoarele aplicații:
  * Gazebo classic : https://docs.px4.io/main/en/sim_gazebo_classic/
  * ROS 2: https://docs.px4.io/main/en/ros2/user_guide.html
